@@ -7,6 +7,7 @@ from opencc import OpenCC
 import openai
 from langchain_community.vectorstores import Chroma
 from dotenv import load_dotenv
+from openai import OpenAI
 
 load_dotenv()
 
